@@ -1,0 +1,30 @@
+.div1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.div3{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+.div4{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.cambiaColor{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid solid solid;
+    
+}
